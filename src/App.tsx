@@ -58,7 +58,6 @@ const App: React.FC = () => {
         </div>
       </nav>
       <Board />
-      {/* <div></div> */}
     </div>
   );
 };

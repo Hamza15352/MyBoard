@@ -5,7 +5,7 @@ import React, { useState, useEffect } from "react";
 import Login from "./pages/Login";
 import Signup from "./pages/Signup";
 import Board from "./components/Board";
-// import { User } from "./types"; // Ye file create karna hoga
+// import { User } from "./types"; 
 import "./styles/App.scss";
 
 interface User {
